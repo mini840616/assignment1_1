@@ -1,0 +1,30 @@
+article#course{
+  max-width:600px;
+  padding:1em;
+  
+  background:  url(http://subtlepatterns.com/patterns/school.png)top center ;
+    
+  border-radius:3em;
+
+  font-family: 'Quicksand', sans-serif;
+}
+
+
+#course h1{
+	font-size:2.5em;
+	color:#8B4513;
+
+}
+
+#course img{
+  width:80%;
+  padding:2em;
+  box-sizing:border-box;
+}
+
+.more-information h3,
+.class-schedule h3,
+.course-analysis h2{
+  font-size:1.3em;
+  border-bottom:1px solid;
+}
